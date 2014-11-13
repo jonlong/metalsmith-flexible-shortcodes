@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "mocha",
-    "postinstall": "gulp"
+    "postinstall": "node node_modules/.bin/gulp default"
   },
   "repository": {
     "type": "git",
