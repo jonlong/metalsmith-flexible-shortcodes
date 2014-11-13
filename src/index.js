@@ -1,5 +1,5 @@
 var shortcode = require('shortcode-parser'),
-    each      = require('lodash.forEach'),
+    each      = require('lodash.foreach'),
     merge     = require('lodash.merge'),
     plugin;
 
