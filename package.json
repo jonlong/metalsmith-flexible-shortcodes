@@ -21,8 +21,6 @@
     "lodash.foreach": "^2.4.1",
     "lodash.merge": "^2.4.1",
     "shortcode-parser": "0.0.1"
-  },
-  "devDependencies": {
     "should": "^4.0.0",
     "mocha": "^1.20.0",
     "gulp": "^3.6.2",
